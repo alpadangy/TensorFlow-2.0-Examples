@@ -9,3 +9,5 @@
 ## TensorFlow 2.0 Examples
 - [Fashion MNIST](https://github.com/ssvas1997/TensorFlow-2.0-Examples/blob/master/Fashion_MNIST.ipynb)
 - [Customer Churn Prediction using Artificial Neural Network](https://github.com/ssvas1997/TensorFlow-2.0-Examples/blob/master/Customer_churn_for_bank_using_ANN.ipynb)
+  - [Customer Churn CSV](https://github.com/ssvas1997/TensorFlow-2.0-Examples/blob/master/Customer_Churn_Modelling.csv)
+ 
