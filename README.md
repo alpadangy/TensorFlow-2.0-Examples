@@ -7,7 +7,5 @@
  </p>
 
 ## TensorFlow 2.0 Examples
-
-
- 
 - Fashion MNIST
+- Customer Churn Prediction using Artificial Neural Network
